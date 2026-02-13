@@ -6,7 +6,7 @@ not playing nice with Windows 10 and 11.
 With this i am trying to first and foremost trying to fight the huge amount of e-waste, being generated unneccesarily.
 but certainly also give people a way easier way to just make what they bought, actually work as it should.
 
-Now, logitech gaming software wont be needed for this to work. I probably wont be able to fix that. 
+Now, logitech gaming software wont be needed for this to work, nor does it work properly in w11. I probably wont be able to fix that. 
 There are however ways to have the UI show in the USB game controller menu, but decided not to include it as of yet.
 
 
