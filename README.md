@@ -21,6 +21,8 @@ To install the driver:
 I have tested this with a G27 and a G25, but should also work with DFGT and other wheels, please let me know if you've got other models working!
 Either here, on Reddit or Discord under the same nickname.
 
+Being a modded driver, i had to sign this myself. But i have provided the keys for the cert and its password is "mysli" should you need it for whatever reason.
+The bat scripts handle installing and removing both certificate and driver.
 
 The original drivers are made by Logitech for their products,
 therefor all rights are reserved Logitech.
